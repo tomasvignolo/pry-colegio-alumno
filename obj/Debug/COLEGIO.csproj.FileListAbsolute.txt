@@ -1,0 +1,20 @@
+C:\Users\mec\source\repos\COLEGIO\bin\Debug\COLEGIO.exe.config
+C:\Users\mec\source\repos\COLEGIO\bin\Debug\COLEGIO.exe
+C:\Users\mec\source\repos\COLEGIO\bin\Debug\COLEGIO.pdb
+C:\Users\mec\source\repos\COLEGIO\obj\Debug\COLEGIO.csprojAssemblyReference.cache
+C:\Users\mec\source\repos\COLEGIO\obj\Debug\COLEGIO.Form1.resources
+C:\Users\mec\source\repos\COLEGIO\obj\Debug\COLEGIO.Properties.Resources.resources
+C:\Users\mec\source\repos\COLEGIO\obj\Debug\COLEGIO.csproj.GenerateResource.cache
+C:\Users\mec\source\repos\COLEGIO\obj\Debug\COLEGIO.csproj.CoreCompileInputs.cache
+C:\Users\mec\source\repos\COLEGIO\obj\Debug\COLEGIO.exe
+C:\Users\mec\source\repos\COLEGIO\obj\Debug\COLEGIO.pdb
+D:\Escritorio\COLEGIO (ALUMNO)\bin\Debug\COLEGIO.exe.config
+D:\Escritorio\COLEGIO (ALUMNO)\bin\Debug\COLEGIO.exe
+D:\Escritorio\COLEGIO (ALUMNO)\bin\Debug\COLEGIO.pdb
+D:\Escritorio\COLEGIO (ALUMNO)\obj\Debug\COLEGIO.csproj.AssemblyReference.cache
+D:\Escritorio\COLEGIO (ALUMNO)\obj\Debug\COLEGIO.Form1.resources
+D:\Escritorio\COLEGIO (ALUMNO)\obj\Debug\COLEGIO.Properties.Resources.resources
+D:\Escritorio\COLEGIO (ALUMNO)\obj\Debug\COLEGIO.csproj.GenerateResource.cache
+D:\Escritorio\COLEGIO (ALUMNO)\obj\Debug\COLEGIO.csproj.CoreCompileInputs.cache
+D:\Escritorio\COLEGIO (ALUMNO)\obj\Debug\COLEGIO.exe
+D:\Escritorio\COLEGIO (ALUMNO)\obj\Debug\COLEGIO.pdb
